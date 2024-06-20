@@ -2,7 +2,7 @@ package se.lexicon;
 
 import java.text.DecimalFormat;
 
-public class ArraysEX6 {
+public class ArraysEX06 {
 
     public static void main(String[] args) {
         double[] forAverage = {34, 15, 73, 15, 4, 155};

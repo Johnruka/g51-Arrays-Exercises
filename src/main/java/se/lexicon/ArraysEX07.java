@@ -1,6 +1,6 @@
 package se.lexicon;
 
-public class ArraysEX7 {
+public class ArraysEX07 {
 
     public static void main(String[] args) {
         int[] array = {11, 20, 40, 73, 95, 12};
