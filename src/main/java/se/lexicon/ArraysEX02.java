@@ -1,11 +1,11 @@
 package se.lexicon;
 
-public class ArraysEX2 {
+public class ArraysEX02 {
 
     public static void main(String[] args) {
         char[] characters = {'a', 's', 'd', 'f', 'g', 'h', 'j', 'k', 'b', 't', 'r', 'c'};
 
-        ArraysEX2 exercise = new ArraysEX2();
+        ArraysEX02 exercise = new ArraysEX02();
         int index = exercise.indexOf(characters, 'd');
         System.out.println("Index position of 'd' is " + index);
     }

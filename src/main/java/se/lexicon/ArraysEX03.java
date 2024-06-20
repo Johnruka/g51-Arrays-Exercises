@@ -2,7 +2,7 @@ package se.lexicon;
 
 import java.util.Arrays;
 
-public class ArraysEX3 {
+public class ArraysEX03 {
 
     public static void main(String[] args) {
         String[] cities = {"Paris", "London", "New York", "Stockholm"};

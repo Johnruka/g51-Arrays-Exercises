@@ -1,6 +1,6 @@
 package se.lexicon;
 
-public class ArraysEX5 {
+public class ArraysEX05 {
 
     public static void main(String[] args) {
         String[][] twoD = new String[2][2];

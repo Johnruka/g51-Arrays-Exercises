@@ -2,7 +2,7 @@ package se.lexicon;
 
 import java.util.Arrays;
 
-public class ArraysEX8And9 {
+public class ArraysEX08And09 {
 
     public static void main(String[] args) {
         int[] array = {20, 20, 40, 20, 30, 40, 50, 60, 50};

@@ -2,7 +2,7 @@ package se.lexicon;
 
 import java.util.Arrays;
 
-public class ArraysEX4 {
+public class ArraysEX04 {
 
     public static void main(String[] args) {
         int[] numbers = {20, 33, 49, 75, 94, 120};
