@@ -3,7 +3,7 @@ package se.lexicon;
 public class ArraysEX10 {
 
     public static void main(String[] args) {
-        int size = 10;
+        int size = 8;
         int[][] table = new int[size][size];
 
         for (int i = 0; i < size; i++) {
